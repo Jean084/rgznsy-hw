@@ -1,0 +1,2 @@
+txtProcess.py为数据预处理代码
+处理给出的数据集，得到定位分类所用的dataset
